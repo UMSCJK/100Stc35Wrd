@@ -9,7 +9,7 @@
 ## 核心词表
 
 - [ ] where adv. 在哪里；在那里 conj. （在）……的地方
-- [ ] can modal.v. 可能；能够；可以
+- [ ] can modal. 可能；能够；可以
 - [ ] past adj. 过去的，最近的 n. 过去，往事 prep. 经过；晚于
   - 搭配：
     - in the past 在过去
@@ -26,7 +26,7 @@
 ### 与“陆地地貌”有关的词：
 
 - [ ] altitude n. 高度；高处；海拔
-- [ ] desert v 舍弃，遗弃 n. 沙漠
+- [ ] desert v. 舍弃，遗弃 n. 沙漠
   - 派生：
     - deserted adj. 无人的；荒废的；被遗弃的
 - [ ] hill n. 小山；丘陵；土堆；斜坡
@@ -74,4 +74,4 @@
 - [ ] spaceship n. 宇宙飞船
 - [ ] the earth's atmosphere 地球大气层
 - [ ] the International Space Station 国际太空站
-- [ ] universen. 宇宙
+- [ ] universe n. 宇宙
