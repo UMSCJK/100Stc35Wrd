@@ -1,4 +1,5 @@
 # 100Sntc35Wrd
+
 俞敏洪《100个句子记完3500个高考单词》全书Markdown整理
 
 [![UMSCJK](https://img.shields.io/badge/GitHub-UMSCJK-FF6138)](https://github.com/UMSCJK)
