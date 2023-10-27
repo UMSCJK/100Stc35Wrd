@@ -41,8 +41,6 @@
 - [ ] class n. （学校里的）班级；课；阶段；等级
 - [ ] classmate n. 同班同学
 - [ ] classroom n. 教室
-
-
 - [ ] correction n. 改正
   - 搭配：
     - correction of the errors 改错

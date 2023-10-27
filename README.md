@@ -10,10 +10,10 @@
 | Sentence 005.md | ✔    | ✔    |      |
 | Sentence 006.md | ✔    | ✔    |      |
 | Sentence 007.md | ✔    | ✔    |      |
-| Sentence 008.md | ✔    |      |      |
-| Sentence 009.md | ✔    |      |      |
-| Sentence 010.md | ✔    |      |      |
-| Sentence 011.md | ✔    |      |      |
+| Sentence 008.md | ✔    | ✔    |      |
+| Sentence 009.md | ✔    | ✔    |      |
+| Sentence 010.md | ✔    | ✔    |      |
+| Sentence 011.md | ✔    | ✔    |      |
 | Sentence 012.md |      |      |      |
 | Sentence 013.md |      |      |      |
 | Sentence 014.md |      |      |      |
