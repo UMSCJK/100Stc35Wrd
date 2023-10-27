@@ -2,8 +2,8 @@
 
 俞敏洪《100个句子记完3500个高考单词》全书Markdown整理
 
-[![UMSCJK](https://img.shields.io/badge/GitHub-UMSCJK-FF6138)](https://github.com/UMSCJK)
-[![warming-moon](https://img.shields.io/badge/GitHub-warming--moon-6b4c43)](https://github.com/warming-moon)
+[![UMSCJK](https://img.shields.io/badge/GitHub-UMSCJK-coral)](https://github.com/UMSCJK)
+[![warming-moon](https://img.shields.io/badge/GitHub-warming--moon-saddlebrown)](https://github.com/warming-moon)
 
 |    Sentence     | 整理  | 首纠  | 复纠  |
 | :-------------: | :---: | :---: | :---: |
