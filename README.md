@@ -1,7 +1,7 @@
 # 100Sntc35Wrd
 
 俞敏洪《100个句子记完3500个高考单词》  
-全书Markdown整理
+——全书Markdown整理
 
 [![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-orangered)](https://github.com/UMSCJK)
 [![warming-moon](https://img.shields.io/badge/辅助-warming--moon-saddlebrown)](https://github.com/warming-moon)  
@@ -13,7 +13,7 @@
 
 |    句子     |                    链接                    | 整理  | 首纠  | 复纠  |
 | :---------: | :----------------------------------------: | :---: | :---: | :---: |
-| Sntc001[^1] | [Link](100个句子记完3500个高考单词/001.md) |   ✔   |   ✔   |       |
+| Sntc001[^1] | [Link](100个句子记完3500个高考单词/001.md) |   ✓   |   ✔   |       |
 |   Sntc002   | [Link](100个句子记完3500个高考单词/002.md) |   ✔   |   ✔   |       |
 |   Sntc003   | [Link](100个句子记完3500个高考单词/003.md) |   ✔   |   ✔   |       |
 |   Sntc004   | [Link](100个句子记完3500个高考单词/004.md) |   ✔   |   ✔   |       |
