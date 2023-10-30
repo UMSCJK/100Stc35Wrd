@@ -1,5 +1,21 @@
 # 100Sntc35Wrd
 
+
+
+
+
+[![warming-moon](https://img.shields.io/badge/辅助-warming--moon-saddlebrown)](https://github.com/warming-moon) 
+[![warming-moon](https://img.shields.io/badge/辅助-warming--moon-chocolate)](https://github.com/warming-moon) 
+[![warming-moon](https://img.shields.io/badge/辅助-warming--moon-brown)](https://github.com/warming-moon) 
+[![warming-moon](https://img.shields.io/badge/辅助-warming--moon-maroon)](https://github.com/warming-moon) 
+[![warming-moon](https://img.shields.io/badge/辅助-warming--moon-sienna)](https://github.com/warming-moon) 
+[![warming-moon](https://img.shields.io/badge/辅助-warming--moon-peru)](https://github.com/warming-moon) 
+[![warming-moon](https://img.shields.io/badge/辅助-warming--moon-burlywood)](https://github.com/warming-moon) 
+[![warming-moon](https://img.shields.io/badge/辅助-warming--moon-rosybrown)](https://github.com/warming-moon) 
+
+
+
+
 俞敏洪《100个句子记完3500个高考单词》  
 ——全书Markdown整理
 
