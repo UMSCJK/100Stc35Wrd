@@ -1,30 +1,28 @@
 # 100Sntc35Wrd
 
 俞敏洪《100个句子记完3500个高考单词》  
-全书Markdown整理 [^1]
+全书Markdown整理
 
 [![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-orangered)](https://github.com/UMSCJK)
 [![warming-moon](https://img.shields.io/badge/辅助-warming--moon-saddlebrown)](https://github.com/warming-moon)  
 ![Book](https://img.shields.io/badge/俞敏洪-100个句子记完3500个高考单词-goldenrod)
-[![Markdown](https://img.shields.io/badge/GitHub-Markdown-mediumseagreen)](https://markdown.com.cn/)
-
-[^1]: 本目录中出现的所有`Sntc`都是`Sentence`的缩写
+[![Markdown](https://img.shields.io/badge/GitHub-Markdown-brightgreen)](https://markdown.com.cn/)
 
 <!-- <details>
 <summary>Sentence 01-10</summary> -->
 
-|  句子   |                    链接                    | 整理  | 首纠  | 复纠  |
-| :-----: | :----------------------------------------: | :---: | :---: | :---: |
-| Sntc001 | [Link](100个句子记完3500个高考单词/001.md) |   ✔   |   ✔   |       |
-| Sntc002 | [Link](100个句子记完3500个高考单词/002.md) |   ✔   |   ✔   |       |
-| Sntc003 | [Link](100个句子记完3500个高考单词/003.md) |   ✔   |   ✔   |       |
-| Sntc004 | [Link](100个句子记完3500个高考单词/004.md) |   ✔   |   ✔   |       |
-| Sntc005 | [Link](100个句子记完3500个高考单词/005.md) |   ✔   |   ✔   |       |
-| Sntc006 | [Link](100个句子记完3500个高考单词/006.md) |   ✔   |   ✔   |       |
-| Sntc007 | [Link](100个句子记完3500个高考单词/007.md) |   ✔   |   ✔   |       |
-| Sntc008 | [Link](100个句子记完3500个高考单词/008.md) |   ✔   |   ✔   |       |
-| Sntc009 | [Link](100个句子记完3500个高考单词/009.md) |   ✔   |   ✔   |       |
-| Sntc010 | [Link](100个句子记完3500个高考单词/010.md) |   ✔   |   ✔   |       |
+|    句子     |                    链接                    | 整理  | 首纠  | 复纠  |
+| :---------: | :----------------------------------------: | :---: | :---: | :---: |
+| Sntc001[^1] | [Link](100个句子记完3500个高考单词/001.md) |   ✔   |   ✔   |       |
+|   Sntc002   | [Link](100个句子记完3500个高考单词/002.md) |   ✔   |   ✔   |       |
+|   Sntc003   | [Link](100个句子记完3500个高考单词/003.md) |   ✔   |   ✔   |       |
+|   Sntc004   | [Link](100个句子记完3500个高考单词/004.md) |   ✔   |   ✔   |       |
+|   Sntc005   | [Link](100个句子记完3500个高考单词/005.md) |   ✔   |   ✔   |       |
+|   Sntc006   | [Link](100个句子记完3500个高考单词/006.md) |   ✔   |   ✔   |       |
+|   Sntc007   | [Link](100个句子记完3500个高考单词/007.md) |   ✔   |   ✔   |       |
+|   Sntc008   | [Link](100个句子记完3500个高考单词/008.md) |   ✔   |   ✔   |       |
+|   Sntc009   | [Link](100个句子记完3500个高考单词/009.md) |   ✔   |   ✔   |       |
+|   Sntc010   | [Link](100个句子记完3500个高考单词/010.md) |   ✔   |   ✔   |       |
 
 <!-- </details>
 
@@ -173,7 +171,7 @@
 </details>
 
 <details>
-<summary>Sentence 91-100句</summary>
+<summary>Sentence 91-100</summary>
 
 |  句子   |                    链接                    | 整理  | 首纠  | 复纠  |
 | :-----: | :----------------------------------------: | :---: | :---: | :---: |
@@ -189,3 +187,5 @@
 | Sntc100 | [Link](100个句子记完3500个高考单词/100.md) |       |       |       |
 
 </details>
+
+[^1]: 本目录中出现的所有`Sntc`都是`Sentence`的缩写
