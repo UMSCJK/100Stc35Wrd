@@ -7,7 +7,7 @@
 ![Book](https://img.shields.io/badge/俞敏洪-100个句子记完3500个高考单词-goldenrod)
 [![Markdown](https://img.shields.io/badge/GitHub-Markdown-mediumseagreen)](https://markdown.com.cn/)
 
-|   Sentence   |                    链接                    | 整理  | 首纠  | 复纠  |
+|     句子     |                    链接                    | 整理  | 首纠  | 复纠  |
 | :----------: | :----------------------------------------: | :---: | :---: | :---: |
 | Sentence 001 | [Link](100个句子记完3500个高考单词/001.md) |   ✔   |   ✔   |       |
 | Sentence 002 | [Link](100个句子记完3500个高考单词/002.md) |   ✔   |   ✔   |       |
