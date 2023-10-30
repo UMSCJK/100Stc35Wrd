@@ -1,16 +1,16 @@
 # 100Sntc35Wrd
 
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-Coral)](https://github.com/UMSCJK)
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-Orange)](https://github.com/UMSCJK)
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-DarkOrange)](https://github.com/UMSCJK)
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-Tomato)](https://github.com/UMSCJK)
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-OrangeRed)](https://github.com/UMSCJK)
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-Lightsalmon)](https://github.com/UMSCJK)
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-Salmon)](https://github.com/UMSCJK)
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-DarkSalmon)](https://github.com/UMSCJK)
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-LightCoral)](https://github.com/UMSCJK)
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-PeachPuff)](https://github.com/UMSCJK)
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-SandyBrown)](https://github.com/UMSCJK)
+[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-coral)](https://github.com/UMSCJK)
+[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-orange)](https://github.com/UMSCJK)
+[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-darkorange)](https://github.com/UMSCJK)
+[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-tomato)](https://github.com/UMSCJK)
+[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-orangered)](https://github.com/UMSCJK)
+[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-lightsalmon)](https://github.com/UMSCJK)
+[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-salmon)](https://github.com/UMSCJK)
+[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-darksalmon)](https://github.com/UMSCJK)
+[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-lightcoral)](https://github.com/UMSCJK)
+[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-peachpuff)](https://github.com/UMSCJK)
+[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-sandybrown)](https://github.com/UMSCJK)
 
 俞敏洪《100个句子记完3500个高考单词》  
 ——全书Markdown整理
