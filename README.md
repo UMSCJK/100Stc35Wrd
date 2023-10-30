@@ -109,3 +109,5 @@
 | Sentence 098 [<i class="fa fa-link"></i>](100个句子记完3500个高考单词/S098.md) |       |       |       |
 | Sentence 099 [<i class="fa fa-link"></i>](100个句子记完3500个高考单词/S099.md) |       |       |       |
 | Sentence 100 [<i class="fa fa-link"></i>](100个句子记完3500个高考单词/S100.md) |       |       |       |
+
+<link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
