@@ -1,5 +1,26 @@
 # 100Sntc35Wrd
 
+
+
+- Coral：珊瑚色（<span style="color:#FF7F50">珊瑚色</span>）
+- Orange：橙色（<span style="color:#FFA500">橙色</span>）
+- DarkOrange：深橙色（<span style="color:#FF8C00">深橙色</span>）
+- Tomato：番茄色（<span style="color:#FF6347">番茄色</span>）
+- OrangeRed：橙红色（<span style="color:#FF4500">橙红色</span>）
+- Lightsalmon：浅鲑鱼色（<span style="color:#FFA07A">浅鲑鱼色</span>）
+- Salmon：鲑鱼色（<span style="color:#FA8072">鲑鱼色</span>）
+- DarkSalmon：深鲑鱼色（<span style="color:#E9967A">深鲑鱼色</span>）
+- LightCoral：浅珊瑚色（<span style="color:#F08080">浅珊瑚色</span>）
+- PeachPuff：桃色（<span style="color:#FFDAB9">桃色</span>）
+- SandyBrown：沙棕色（<span style="color:#F4A460">沙棕色</span>）
+
+
+
+
+
+
+
+
 俞敏洪《100个句子记完3500个高考单词》  
 ——全书Markdown整理
 
