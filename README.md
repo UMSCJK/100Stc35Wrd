@@ -1,7 +1,7 @@
-# 100Sntc35Wrd[^1]
+# 100Sntc35Wrd
 
 俞敏洪《100个句子记完3500个高考单词》  
-——全书Markdown整理
+——全书Markdown整理[^1]
 
 [![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-tomato)](https://github.com/UMSCJK)
 [![warming-moon](https://img.shields.io/badge/辅助-warming--moon-saddlebrown)](https://github.com/warming-moon)  
