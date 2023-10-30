@@ -5,12 +5,9 @@
 [![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-darkorange)](https://github.com/UMSCJK)
 [![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-tomato)](https://github.com/UMSCJK)
 [![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-orangered)](https://github.com/UMSCJK)
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-lightsalmon)](https://github.com/UMSCJK)
 [![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-salmon)](https://github.com/UMSCJK)
 [![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-darksalmon)](https://github.com/UMSCJK)
 [![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-lightcoral)](https://github.com/UMSCJK)
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-peachpuff)](https://github.com/UMSCJK)
-[![UMSCJK](https://img.shields.io/badge/整理-UMSCJK-sandybrown)](https://github.com/UMSCJK)
 
 俞敏洪《100个句子记完3500个高考单词》  
 ——全书Markdown整理
